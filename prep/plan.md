@@ -19,11 +19,12 @@
 * 4/13: Taking the day off
 * 4/14: Taking the day off and making sure previous task are done
 * 4/15: make the carousel for the images of modern cooking
-* 4/16: 
+* 4/16:
 
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Make navbar that works
+* Make the website look more good looking
