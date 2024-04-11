@@ -11,12 +11,15 @@
 * [Text](URL)
 
 ## Timeline
-
+5
 #### MVP
 
 * 4/11: planning out the mvp
 * 4/12: finish plan and work on the navbar component and then the topic
-* 4/13: 
+* 4/13: Taking the day off
+* 4/14: Taking the day off and making sure previous task are done
+* 4/15: make the carousel for the images of modern cooking
+* 4/16: 
 
 
 ---
