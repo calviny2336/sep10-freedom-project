@@ -21,7 +21,7 @@
 * 4/15: code in my freedom project topic and the description
 * 4/16: Work on carousel to display images
 * 4/17: Explain the mordern cooking
-* 4/18: Indrotuce my produce to the topic of cooking
+* 4/18: Indrotuce my product of the topic of cooking
 * 4/19: A-frame showing the product
 * 4/20: Take the day off
 * 4/21: Take the day off
