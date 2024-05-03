@@ -21,9 +21,11 @@ Before creating the actual website, I first need to create my plan what I will d
 * Spring break: Work on all the css for my code then work on the MVP and maybe some customizing and revising if needed.
 * Deadline: 5/1
 
-# Problems I encountered
+# Problems I encountered and Takeaways
 
-When coding in the carousel component from [bootstrap]()
+When coding in the carousel component from [bootstrap](https://getbootstrap.com/docs/5.3/components/carousel/) I used the caption version so I am able to explain the functions of the mordern cooking tools. I couldn't get the local image to show up as a carousel so I skipped it and come back later.
+
+Something I learn when doing this project is trying to make yourself not as stressfull when doing anywork. For example at least work for any significant time if the due date is not tomorrow. It will make yourself less stressful and worrying not being able to finish the work in time.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
