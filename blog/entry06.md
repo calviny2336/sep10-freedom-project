@@ -5,7 +5,7 @@ SEP10 5/1/2024
 
 # Context
 
-Before creating the actual website, I first need to create my plan what I will doing to create the website in about 2 weeks. 
+Before creating the actual website, I first need to create my plan what I will doing to create the website in about 2 weeks. All the planning was done in class and before the planning was made, I did a wireframe for my website that works on phones and computers.
 
 * 4/11: planning out the mvp
 * 4/12: finish plan and work on the navbar component and then the topic
@@ -20,6 +20,10 @@ Before creating the actual website, I first need to create my plan what I will d
 * 4/21: Take the day off
 * Spring break: Work on all the css for my code then work on the MVP and maybe some customizing and revising if needed.
 * Deadline: 5/1
+
+# Problems I encountered
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
