@@ -23,7 +23,7 @@ Before creating the actual website, I first need to create my plan what I will d
 
 # Problems I encountered
 
-
+When coding in the carousel component from [bootstrap]()
 
 [Previous](entry05.md) | [Next](entry07.md)
 
