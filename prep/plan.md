@@ -26,6 +26,7 @@
 * 4/20: Take the day off
 * 4/21: Take the day off
 * Spring break: Work on all the css for my code then work on the MVP and maybe some customizing and revising if needed.
+* Deadline: 5/1
 ---
 
 #### Beyond MVP
