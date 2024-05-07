@@ -6,5 +6,9 @@
     text-align: center;
 }
 
-
+.carousel {
+    padding: 50px 20px;
+    width: 720px;
+    length:1020px;
+}
 
