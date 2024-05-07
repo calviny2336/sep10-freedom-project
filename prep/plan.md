@@ -35,3 +35,7 @@
 * Make the website look more pleasing
 * Add animations
 * More a-frame designs
+
+Things to change
+1. Add the cards component
+2. Interactable features
