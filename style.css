@@ -2,6 +2,11 @@
     padding: 50px 20px;
 }
 
+.row{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
 .center-text{
     text-align: center;
 }
