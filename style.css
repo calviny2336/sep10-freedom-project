@@ -17,10 +17,9 @@
 }
 
 .carousel {
-    padding: 50px 20px;
-    width: 20%;
-    length:20%;
-    margin: auto;
+    #carouselExample {
+        width: 80%; 
+        height: 300px;
 
 }
 
