@@ -1,5 +1,6 @@
 .container{
     padding: 50px 20px;
+    background: blue;
 }
 
 .row{
@@ -24,5 +25,5 @@
 }
 
 .container-fluid {
-    background: light blue;
+    background: blue;
 }
