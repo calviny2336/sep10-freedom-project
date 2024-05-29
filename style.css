@@ -10,7 +10,10 @@
     font-size: 20px;
 }
 
- /* .carousel-inner img {
+.bg2{
+    background-color: #F1F3F4;
+}
+ /* .carousel-inner {
      width: 50%;
     height: auto;
     display: block;
