@@ -26,6 +26,6 @@
 
 .spacings {
     padding: 10px;
-    : 10px;
-    Border: 1px solid black;
+    margin: 10px;
+    Border: 2px solid black;
 }
