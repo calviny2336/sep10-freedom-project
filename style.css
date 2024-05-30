@@ -60,4 +60,5 @@ body {
 a-scene {
     height: 300px;
     width: 600px;
+    margin: auto;
   }
