@@ -1,3 +1,14 @@
+.navfixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+body {
+    padding-top: 60px;
+
+
+
 .bg1 {
     background-color: #D2E3FC;
 }
@@ -6,6 +17,12 @@
     text-align: center;
 }
 
+.left-play {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: auto;
+  }
+
 .font1 {
     font-size: 20px;
 }
@@ -13,12 +30,22 @@
 .bg2{
     background-color: #d0efff;
 }
- /* .carousel-inner {
-     width: 50%;
-    height: auto;
-    display: block;
-    margin: auto;
- } */
+
+#carouselExample {
+    width: 50%;
+}
+
+.carouselcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
 
 .bg3{
     background-color: white;
